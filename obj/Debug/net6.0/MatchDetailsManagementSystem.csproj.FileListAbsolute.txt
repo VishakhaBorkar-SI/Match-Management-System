@@ -1,0 +1,15 @@
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.exe
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.deps.json
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.runtimeconfig.json
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\bin\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.AssemblyInfo.cs
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.dll
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\refint\MatchDetailsManagementSystem.dll
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.pdb
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\MatchDetailsManagementSystem.genruntimeconfig.cache
+C:\Users\Vishakha.borkar\Desktop\MatchDetailsManagementSystem\obj\Debug\net6.0\ref\MatchDetailsManagementSystem.dll
